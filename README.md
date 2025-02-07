@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Munawar Hussain 👋  
 
-<!--
-**munawarhuss/munawarhuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science Student** | 💻 Open Source Enthusiast | 🎯 Problem Solver  
 
-Here are some ideas to get you started:
+🌱 Currently Learning: Git, GitHub, and Web Development  
+🔭 Exploring: ESP32, IoT, AI, and Open Source  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Skills  
+- 💻 Programming: C, C++, Python, JavaScript  
+- 🔧 Tools: Git, GitHub, ESP32, Arduino  
+- 🌐 Web Development: HTML, CSS, JavaScript  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](www.linkedin.com/in/munawar-hussain-)  
+
+---
+⭐️ **Feel free to check out my repositories!** 🚀
